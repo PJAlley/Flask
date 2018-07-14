@@ -16,5 +16,5 @@ def index():
           'body': "Then where are we, Oklahoma?"
         }
     ]
-    return render_template('index.html', user = user)
+    return render_template('index.html', user = user, posts = posts)
 

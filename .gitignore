@@ -14,3 +14,4 @@ venv.bak/
 
 # DB files
 app.db
+microblog/.vscode/*
